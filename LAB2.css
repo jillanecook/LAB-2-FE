@@ -121,5 +121,11 @@ display: none;
   padding: 100px;
   }
 
+  .circles {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 200px;
+  }
+
 
 }
